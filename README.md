@@ -1,1 +1,1 @@
-# Airbnb Listing Capstone Project
+# ALL MS-SQL Projects
