@@ -57,5 +57,17 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 ![image](https://github.com/user-attachments/assets/2fc83eb2-0cbc-41d2-bb89-4d2ed6475f7f)
 
 ## Key Insights
+* Listings in **Belltown** neighborhood generated the highest revenue despite their price being  categorized as 'high priced' and were the most reviewed listings. This shows that pricing is not the major factor in determining revenue generation, Other factors such as positive reviews, consumer experience, location etc may have played a role.
+*Listings in **Industrial District** neighborhood have the highest average price, they were ranked **87** out of **88** on the list total revenue generated and had the lowest number of positive reviews. This further support the point made above
+* Comments with the words: “great”, “comfortable” and “good” were considered positive reviews and these made about **20%** of the total **481,350** comments
+* Listings in the **Broadway** neighborhood had the highest number of positive reviews, ranked **2nd** out of **88** on the list of total revenue generated and were the **2nd** most reviewed listings by consumers. Positive reviews have played a role in consumers' choice of listings and thus increased revenue generation.
+* Over the past one year, with consideration to latest date in data set, host name **Air Concierge**, generated the highest total revenue
+* Listings with pricing above $700 generated **10%** of the total revenue **($2,554,616)**
+* High-priced listings generated the most revenues
+
 ## Recommendations
+* Look into listings and neighborhood will low reviews and improve consumer experience where necessary
+* Decrease price of Listings with pricing above $700 and improve them based on consumer comments
+* Award host name  'Air Concierge' to encourage increased performance from other hosts
+* Unless necessary to change, Maintain price of highly reviewed listings
 
