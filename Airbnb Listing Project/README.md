@@ -58,7 +58,7 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 
 ## Key Insights
 * Listings in **Belltown** neighborhood generated the highest revenue despite their price being  categorized as 'high priced' and were the most reviewed listings. This shows that pricing is not the major factor in determining revenue generation, Other factors such as positive reviews, consumer experience, location etc may have played a role.
-*Listings in **Industrial District** neighborhood have the highest average price, they were ranked **87** out of **88** on the list total revenue generated and had the lowest number of positive reviews. This further support the point made above
+* Listings in **Industrial District** neighborhood have the highest average price, they were ranked **87** out of **88** on the list total revenue generated and had the lowest number of positive reviews. **This further support the point made above**
 * Comments with the words: “great”, “comfortable” and “good” were considered positive reviews and these made about **20%** of the total **481,350** comments
 * Listings in the **Broadway** neighborhood had the highest number of positive reviews, ranked **2nd** out of **88** on the list of total revenue generated and were the **2nd** most reviewed listings by consumers. Positive reviews have played a role in consumers' choice of listings and thus increased revenue generation.
 * Over the past one year, with consideration to latest date in data set, host name **Air Concierge**, generated the highest total revenue
