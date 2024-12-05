@@ -13,7 +13,8 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 [Retrieve dataset here](https://youtu.be/uAM023J7bZI?si=jTph0zlEc2kHDmrH)
 
 ## Questions and results
-[See the queries here](https://github.com/Ruqayyat-Hassan/MS-SQL-Projects/blob/d745236e9539e16adc6a0f2de95745354c0dfd92/Airbnb%20Listing%20Project/SQL%20Capstone%20Project.sql)
+[See queries here](https://github.com/Ruqayyat-Hassan/MS-SQL-Projects/blob/e8e60818e2075a1a380dbc2e088065b32e22bad0/Airbnb%20Listing%20Project/SQL%20Capstone%20Project.sql)
+
 1. Find the neighborhood with the highest total revenue and the average price per listing
 ![image](https://github.com/user-attachments/assets/446d624d-40b0-47c3-904c-957936c87fea)
 
