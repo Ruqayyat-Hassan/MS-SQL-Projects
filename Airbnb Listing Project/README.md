@@ -1,5 +1,6 @@
 # Airbnb Listing Capstone Project
-![Airbnb Photo](https://github.com/user-attachments/assets/724c4abe-047f-4932-9db3-6ef831dc0c9f)
+
+![1_-VEuFxdokZq-Ez9oEs0OAg](https://github.com/user-attachments/assets/38873d0e-a002-42b8-b662-2ef67f88cabc)
 
 ## Introduction & Objectives
 Airbnb, a leading online marketplace for short-term lodging, connects travelers with unique accommodations around the globe. Assessing Airbnb listings is essential for gaining valuable insights into the performance and characteristics of properties within the short-term rental market. 
@@ -54,4 +55,7 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 10. Calculate the total revenue generated for each listing, categorizing them as "high-priced" or "low-priced" based on their price relative to the average price for their neighborhood
 
 ![image](https://github.com/user-attachments/assets/2fc83eb2-0cbc-41d2-bb89-4d2ed6475f7f)
+
+## Key insights
+## Recommendations
 
