@@ -1,11 +1,11 @@
-# Airbnb Listing Capstone Project
+# Case Study of Airbnb Listings
 
 ![1_-VEuFxdokZq-Ez9oEs0OAg](https://github.com/user-attachments/assets/38873d0e-a002-42b8-b662-2ef67f88cabc)
 
 ## Introduction & Objectives
-Airbnb, a leading online marketplace for short-term lodging, connects travelers with unique accommodations around the globe. Assessing Airbnb listings is essential for gaining valuable insights into the performance and characteristics of properties within the short-term rental market. 
+Airbnb is a leading online marketplace for short-term lodging and connects travelers with unique accommodations around the globe. Assessing Airbnb listings is essential for gaining valuable insights into the performance and characteristics of properties within the short-term rental market. 
 
-This Airbnb listing dataset contains data on listing id, price, neighborhood location, reviews, comments, etc. By analyzing this data,, we can identify neighborhoods that generate the highest revenue, pinpoint listings that may require additional marketing efforts, and recognize those more likely to be repurchased based on customer experiences and reviews.
+This Airbnb listing dataset contains data on listing price, neighborhood location, reviews, comments, etc. By analyzing this data, we can identify neighborhoods that generate the highest revenue, pinpoint listings that may require additional marketing efforts, and recognize those more likely to be repurchased based on customer experiences and reviews.
 
 This analysis also sheds light on which listings need improvements to enhance guest satisfaction, how listing revenues fluctuate over time, and which properties are priced above or below the neighborhood average. Such insights are crucial for helping hosts optimize their strategies, ensuring competitive pricing, and improving the overall guest experience.
 
@@ -14,7 +14,7 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 [Retrieve dataset here](https://youtu.be/uAM023J7bZI?si=jTph0zlEc2kHDmrH)
 
 ## Questions and Results
-[See queries here](https://github.com/Ruqayyat-Hassan/MS-SQL-Projects/blob/e8e60818e2075a1a380dbc2e088065b32e22bad0/Airbnb%20Listing%20Project/SQL%20Capstone%20Project.sql)
+[See queries here](https://github.com/Ruqayyat-Hassan/MS-SQL-Projects/blob/2f8bbf6b6b6925ac6801cc3ca55230e777e517e2/Airbnb%20Listing%20Project/SQL%20Capstone%20Project.sql)
 
 1. Find the neighborhood with the highest total revenue and the average price per listing
 ![image](https://github.com/user-attachments/assets/446d624d-40b0-47c3-904c-957936c87fea)
