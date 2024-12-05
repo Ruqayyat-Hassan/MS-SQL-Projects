@@ -9,11 +9,11 @@ This Airbnb listing dataset contains data on listing id, price, neighborhood loc
 
 This analysis also sheds light on which listings need improvements to enhance guest satisfaction, how listing revenues fluctuate over time, and which properties are priced above or below the neighborhood average. Such insights are crucial for helping hosts optimize their strategies, ensuring competitive pricing, and improving the overall guest experience.
 
-## Data collection process
+## Data Collection Process
 Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with SQL Course) and Imported into MS-SQL.
 [Retrieve dataset here](https://youtu.be/uAM023J7bZI?si=jTph0zlEc2kHDmrH)
 
-## Questions and results
+## Questions and Results
 [See queries here](https://github.com/Ruqayyat-Hassan/MS-SQL-Projects/blob/e8e60818e2075a1a380dbc2e088065b32e22bad0/Airbnb%20Listing%20Project/SQL%20Capstone%20Project.sql)
 
 1. Find the neighborhood with the highest total revenue and the average price per listing
@@ -56,6 +56,6 @@ Dataset was gotten from Analytics Extra Youtube Playlist (Problem Solving with S
 
 ![image](https://github.com/user-attachments/assets/2fc83eb2-0cbc-41d2-bb89-4d2ed6475f7f)
 
-## Key insights
+## Key Insights
 ## Recommendations
 
